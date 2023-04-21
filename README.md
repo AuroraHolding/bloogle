@@ -3,8 +3,8 @@
 --Boring stuff:
 "This project is released under a shared source license, which means that you are free to view, use,
 and modify the source code for personal or non-commercial purposes. However, any commercial use or redistribution of this code must be authorized
-and a royalty payment of 4.2069% of gross revenue must be paid to the project owners for the life of any and all projects. 
-If you are interested in commercial use or redistribution of this code, please contact us at info@auroraholding.net. 
+and a royalty payment of 9.6420% of gross revenue must be paid to the project owners for the life of any and all projects. 
+If you are interested in commercial use or redistribution of this code, please contact us at info@auroraholding.net.
 Thank you for your understanding and cooperation in supporting this project."
 
 Bloogle: The Social Search Engine of the Future
